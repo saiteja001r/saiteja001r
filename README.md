@@ -1,16 +1,14 @@
-## Hi there 👋
+##Hi there! 👋
+I am an AI/ML Engineer passionate about building intelligent systems and delivering innovative solutions to complex problems. With expertise in Machine Learning, Deep Learning, NLP, Generative AI, and modern frameworks, I specialize in creating robust, scalable, and production-ready applications.
 
-<!--
-**saiteja001r/saiteja001r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 What I Do:
 
-Here are some ideas to get you started:
+🚀 Develop end-to-end AI/ML pipelines for real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Work on Generative AI and LLM-based chatbots using frameworks like LangChain and Hugging Face.
+
+📊 Perform advanced data engineering and analytics with tools like Apache Kafka, PySpark, and Databricks.
+
+🛠 Deploy ML models with FastAPI, Docker, Kubernetes, and AWS.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiteja001r&show_icons=true&theme=radical)
