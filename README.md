@@ -85,6 +85,6 @@ I am an AI/ML Engineer passionate about building intelligent systems and deliver
 ---
 
 ### 📊 GitHub Activity Graph:
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiteja001r&theme=github)](https://github.com/HarikrishnanK9)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiteja001r&theme=github)](https://github.com/saiteja001r)
 
 
